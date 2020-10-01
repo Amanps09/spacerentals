@@ -1,0 +1,173 @@
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+#main-header{
+  background-color: coral;
+  color: white;
+}
+
+#navbar{
+  background-color: #333;
+  color: white;
+}
+
+#navbar ul{
+  padding: 0;
+  list-style: none;
+}
+
+#navbar li{
+  display: inline;
+}
+
+#navbar a{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding-right: 50px;
+}
+
+.show {
+  background-image: url(../img/oyo2.jpg);
+  height: 750px;
+  text-align: center;
+}
+.show h1{
+  padding-top: 130px;
+}
+
+.heading h1{
+  text-align: center;
+  background-color: #DB58F5;
+}
+
+.container-1{
+  display: flex;
+  width: 80%;
+}
+
+.box-1{
+  flex: 1;
+  padding-left: 180px;
+  padding-top: 50px;
+}
+
+.box-2{
+  flex: 1;
+  line-height: 25px;
+  padding-top: 50px;
+  padding-left: 90px;
+}
+
+.btn{
+  border: 2px;
+color:white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: inherit;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+background-color:coral;
+}
+
+a:hover{
+  color: none;
+}
+
+a:visited{
+  color: none;
+}
+
+a:link{
+  color: none;
+}
+
+a:active{
+  color:none;
+}
+
+.container-2{
+display: flex;
+}
+
+.container-2 h1{
+  text-align: center;
+}
+
+.box-3{
+  flex: 1.2;
+  padding-top: 30px;
+}
+
+.box-4{
+  flex:1;
+  padding-left: 30px;
+}
+
+.box-4 ul{
+background-color: coral;
+}
+
+.services{
+  text-align: center;
+  display: flex;
+}
+
+#head{
+  text-align: center;
+  background-color: #DB58F5;
+}
+
+.box-5{
+  text-align: center;
+  flex:1;
+}
+
+.box-6{
+  text-align: center;
+  flex:1;
+}
+
+.box-7{
+  text-align: center;
+  flex:1;
+}
+
+#head-1{
+  text-align: center;
+  text-decoration: underline;
+  background-color: #DB58F5;
+}
+
+.gallery{
+  text-align: center;
+  display: flex;
+}
+
+#con-head{
+  text-align: center;
+  text-decoration: underline;
+  background-color: #DB58F5;
+}
+
+.img{
+  width: 30px;
+  height: 30px;
+  padding-left: 50px;
+}
+
+#social{
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}

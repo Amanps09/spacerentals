@@ -1,0 +1,22 @@
+body{
+    background-image:url(../img/istockphoto-947517200-1024x1024.jpg);
+    font-family: 'Roboto',sans-serif;
+    background-size: cover;
+  }
+
+  .connect{
+    background-color: #F4F659;
+    width: 300px;
+    border: 3px solid #C3C506;
+    padding: 120px;
+    margin-top: 50px;
+    margin-left: 380px;
+    border-radius: 15px;
+  }
+
+.button-1{
+  background-color: green;
+  padding: 15px 32px;
+  color: white;
+  border: 5px;
+}
