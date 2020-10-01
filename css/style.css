@@ -53,6 +53,10 @@
   flex: 1;
   padding-left: 180px;
   padding-top: 50px;
+  transition: transform .2s;
+}
+.box-1:hover {
+  transform: scale(1.5);
 }
 
 .box-2{
